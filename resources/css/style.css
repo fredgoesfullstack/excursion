@@ -30,6 +30,11 @@ img.align-center {
 	margin: 0px auto;
 }
 
+video.align-center {
+	display: block;
+	margin: 0px auto;
+}
+
 .Copyright {
 	font-family: Verdana;
 	color: gray;
