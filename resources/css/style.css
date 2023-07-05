@@ -24,12 +24,14 @@ h2 {
 	text-align: center;
 }
 
-.Video {
-	position: center;
+img.align-center {
+	display: block;
+	margin: 0px auto;
 }
 
-.Camping {
-	position: center;
+video.align-center {
+	display: block;
+	margin: 0px auto;
 }
 
 .Description {
