@@ -24,6 +24,16 @@ h2 {
 	font-size: 21px;
 }
 
+img.align-center {
+	display: block;
+	margin: 0px auto;
+}
+
+video.align-center {
+	display: block;
+	margin: 0px auto;
+}
+
 .Copyright {
 	font-family: Verdana;
 	color: gray;
@@ -33,4 +43,12 @@ h2 {
 
 a:link {
 	color: aquamarine;
+}
+
+a: visited {
+	color: aquamarine;
+}
+
+a: active {
+	color: aquamarine:
 }
