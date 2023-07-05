@@ -17,6 +17,7 @@ h2 {
 
 .Download {
 	font-size: 16px;
+	color: aquamarine;
 }
 
 .Description {
@@ -45,10 +46,10 @@ a:link {
 	color: aquamarine;
 }
 
-a: visited {
+a:visited {
 	color: aquamarine;
 }
 
-a: active {
+a:active {
 	color: aquamarine:
 }
